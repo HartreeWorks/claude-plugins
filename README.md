@@ -13,7 +13,7 @@ Add this marketplace to Claude Code:
 Then install any plugin:
 
 ```
-/plugin install plugin-name@hartreeworks-plugins
+/plugin install plugin-name@HartreeWorks-plugins
 ```
 
 ## Available plugins
