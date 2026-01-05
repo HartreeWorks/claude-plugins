@@ -20,7 +20,7 @@ Then install any plugin:
 
 | Plugin | Description |
 |--------|-------------|
-| [project-management](https://github.com/HartreeWorks/plugin--project-management) | Manage non-coding projects with scaffolding, Google Docs integration, and memory tracking |
+| project-management | Manage non-coding projects with scaffolding, Google Docs integration, and memory tracking |
 
 ## About
 
