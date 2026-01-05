@@ -6,7 +6,7 @@ Manage non-coding projects with scaffolding, Google Docs integration, and memory
 
 1. Add the HartreeWorks plugins marketplace:
 ```
-/plugin marketplace add hartreeworks/plugins
+/plugin marketplace add hartreeworks/claude-plugins
 ```
 
 2. Install this plugin:

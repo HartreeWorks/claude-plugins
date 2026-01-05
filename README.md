@@ -7,7 +7,7 @@ Claude Code plugins by [Peter Hartree](https://x.com/peterhartree).
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add hartreeworks/plugins
+/plugin marketplace add hartreeworks/claude-plugins
 ```
 
 Then install any plugin:
