@@ -1,0 +1,11 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "Manage non-coding projects with scaffolding, Google Docs integration, and memory tracking",
+  "author": {
+    "name": "Peter Hartree",
+    "url": "https://x.com/peterhartree"
+  },
+  "repository": "https://github.com/HartreeWorks/plugin--project-management",
+  "keywords": ["project-management", "productivity", "google-docs"]
+}
