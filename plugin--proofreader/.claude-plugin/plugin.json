@@ -6,7 +6,5 @@
     "name": "Pete Hartree"
   },
   "license": "MIT",
-  "keywords": ["proofreading", "spelling", "grammar", "markdown", "british-english", "editing"],
-  "agents": ["./agents/"],
-  "skills": ["./skills/"]
+  "keywords": ["proofreading", "spelling", "grammar", "markdown", "british-english", "editing"]
 }
