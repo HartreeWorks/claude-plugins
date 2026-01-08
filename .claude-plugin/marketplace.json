@@ -8,6 +8,12 @@
   },
   "plugins": [
     {
+      "name": "proofreader",
+      "description": "LLM-powered proofreading for markdown with British English conventions and background execution",
+      "source": "./plugin--proofreader",
+      "category": "productivity"
+    },
+    {
       "name": "project-management",
       "description": "Manage non-coding projects with scaffolding, Google Docs integration, and memory tracking",
       "source": "./plugin--project-management",
