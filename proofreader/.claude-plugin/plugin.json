@@ -1,0 +1,12 @@
+{
+  "name": "proofreader",
+  "version": "1.0.0",
+  "description": "LLM-powered proofreading for markdown documents with British English conventions. Supports background execution for long documents.",
+  "author": {
+    "name": "Pete Hartree"
+  },
+  "license": "MIT",
+  "keywords": ["proofreading", "spelling", "grammar", "markdown", "british-english", "editing"],
+  "agents": ["./agents/"],
+  "skills": ["./skills/"]
+}

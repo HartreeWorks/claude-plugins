@@ -20,6 +20,7 @@ Then install any plugin:
 
 | Plugin | Description |
 |--------|-------------|
+| proofreader | LLM-powered proofreading for markdown with British English conventions, background execution |
 | project-management | Manage non-coding projects with scaffolding, Google Docs integration, and memory tracking |
 
 ## About
